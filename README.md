@@ -14,7 +14,7 @@ See '02-Features_from_audio.pca.ipynb' on how to read , process and create featu
 
 
 
-## 03. Further suggestions :
+## 03. Further reading :
 
 For further reading on this domain area please see :
 
