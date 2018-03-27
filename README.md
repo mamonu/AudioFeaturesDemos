@@ -23,6 +23,8 @@ For further reading on this domain area please see :
 
 [MIR2](https://ccrma.stanford.edu/workshops/music-information-retrieval-2016)
 
+[Fundamentals of Music Processing book from Springer](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP)
+
 
 
 
