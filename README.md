@@ -1,5 +1,7 @@
 # AudioFeaturesDemos
 
+![alt text](WaveformAudio.jpg)
+
 
 ##  01 . Audio Transcription :
 
@@ -10,7 +12,11 @@ See '01-Audiotranscription.ipynb' on how to transcribe (or try to!!!) audio to t
 
 See '02-Features_from_audio.pca.ipynb' on how to read , process and create features from an audio file that are suitable for further use with ML libraries such as the scikit learn package
 
-For further reading on this please see :
+
+
+## 03. Further suggestions :
+
+For further reading on this domain area please see :
 
 
 [MIR](http://musicinformationretrieval.com/)
