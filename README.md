@@ -12,7 +12,13 @@ See '02-Features_from_audio.pca.ipynb' on how to read , process and create featu
 
 For further reading on this please see :
 
-[](https://musicinformationretrieval.com/)
+
+[MIR](http://musicinformationretrieval.com/)
+
+[MIR2] (https://ccrma.stanford.edu/workshops/music-information-retrieval-2016)
+
+
+
 
 
 
