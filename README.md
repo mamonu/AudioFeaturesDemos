@@ -3,7 +3,7 @@
 
 ##  01 . Audio Transcription :
 
-See '01-Audiotranscription.ipynb' on how to transcribe (or Try To!!!) audio to text using Python and Sphinx package.
+See '01-Audiotranscription.ipynb' on how to transcribe (or try to!!!) audio to text using Python and Sphinx package.
 
 
 ## 02. Features from Audio :
@@ -15,7 +15,7 @@ For further reading on this please see :
 
 [MIR](http://musicinformationretrieval.com/)
 
-[MIR2] (https://ccrma.stanford.edu/workshops/music-information-retrieval-2016)
+[MIR2](https://ccrma.stanford.edu/workshops/music-information-retrieval-2016)
 
 
 
